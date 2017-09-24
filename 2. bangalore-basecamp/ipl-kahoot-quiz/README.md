@@ -2,7 +2,7 @@
 
 A quiz on IPL ball-by-ball data that is present in "deliveries.csv". This is a quiz that people can play in teams or individually. The quiz is hosted on Kahoot. There are 22 questions. Each question has to be solved in 120 seconds. Four options are displayed out of which only one is correct. Each question can be solved by using a data analysis tool such as MS Excel, R, Python, Tableau etc although MS Excel would be more appropriate since there is a time limit for each question.
 
-## Steps to play:
+# Steps to play:
 
 Follow these steps to play the game. You can play the quiz using a laptop or a smartphone but you would need a laptop for data analysis.
 
@@ -18,3 +18,7 @@ https://play.kahoot.it/#/k/668fdcc4-5503-48cd-9449-24f168893cc0
 5. Start Playing!
 
 Tip: The quicker you are the more points you get!
+
+# Solution
+
+The slution to all the twenty two questions is present in "ipl-quiz-solution.R"
